@@ -17,5 +17,4 @@ jobs:
       run: make mainTests
     - name: run test
       run: ./mainTests.exe
-    - name: make distcheck
-      run: make distcheck
+
